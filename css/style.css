@@ -791,7 +791,7 @@ h4 {
   font-weight: bold;
 }
 .t-clear{
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .tc-white {
     /* color: #F3976C!important; */
@@ -799,6 +799,9 @@ h4 {
 }
 .tc-black {
   color: #000000!important;
+}
+.footer-link{
+  height: 48px;
 }
 .btn-atomic-tangerine {
     background: #F3976C;
